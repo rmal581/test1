@@ -1,1 +1,1 @@
-select * from snowflake_table_a
+select * from snowflake_table_b
